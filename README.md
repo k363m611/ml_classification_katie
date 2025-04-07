@@ -2,7 +2,7 @@
 # Titanic Survival Prediction
 
 **Author:** Katie  
-**Date:** April 6, 2025  
+**Date:** April 6, 2025
 
 ## Project Overview
 
@@ -19,6 +19,8 @@ This project builds a machine learning model to predict survival outcomes of Tit
 - [Peer Review](#peer-review)
 - [Modeling Techniques](#modeling-techniques)
 - [Results](#results)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
